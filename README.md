@@ -1,7 +1,7 @@
 # oscillators-7x7-dataset-game-of-life - ONGOING
 A database of the 7x7 [oscillators in Conway's Game of Life](https://conwaylife.com/wiki/Oscillator) with a max period of 15 generations and a grid border that goes to infinity.
 
-* ONGOING: I keep on adding new oscillators to the database.
+* ONGOING: I keep on adding new oscillators to the dataset.
 
 ## Usage:
 There are two ways to use the data:
