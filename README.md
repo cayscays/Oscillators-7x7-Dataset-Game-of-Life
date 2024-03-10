@@ -37,7 +37,7 @@ This dataset and repository are maintained by [cayscays](https://github.com/cays
 
 
 ## Related work:
-[A neural network I trained on this dataset](https://github.com/cayscays/neural-networks-from-scratch).
+[A neural network I trained on this dataset](https://github.com/cayscays/neural-network-from-scratch).
 
 ---
 
