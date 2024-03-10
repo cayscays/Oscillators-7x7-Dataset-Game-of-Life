@@ -1,14 +1,14 @@
-#
-# Author:       cayscays
-# Date:         December 2021
-# Version:      1
-# Description: A raw version of the database of 7x7 oscillators in Conway's Game of Life with max period of 15 generations.
-#               The grid border is infinity not circular.
-#
+"""
+Author:       cayscays# Date:         December 2021
+Version:      1
+Description:  A raw version of the data. 
+              This dataset documents 7x7 oscillators in Conway's Game of Life. It is currently a work in progress, with ongoing updates and additions. It tracks the max_checked_value. 
+              The oscillators have a maximum period of 15 generations, with the grid border extending to infinity.
+"""
 
 GRID_SIZE = 7
 
-max_checked_value = 132000000  # Last update: 9.21.22
+max_checked_value = 132000000  # Latest update: 9.21.22
 
 oscillators = [896, 1792, 3584, 7168, 13280, 14336, 14723, 15232, 33026, 45410, 47362, 47746, 47747, 63872, 64130,
                66052, 114688, 116480, 127072, 129024, 132104, 209720, 229376, 230272, 232960, 242044, 264208, 399758,
