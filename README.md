@@ -17,8 +17,8 @@ This repository contains a dataset documenting 7x7 oscillators in Conway's Game 
 ## Repository Contents
 
 1. **oscillators_7x7_dataset.txt**: The dataset containing the 7x7 oscillators.
-2. **dataset_generator.ipynb**: Jupyter Notebook for generating the dataset of Conway's Game of Life oscillators.
-3. **utils.py**: Utility functions for processing and manipulating data related to oscillators in Conway's Game of Life.
+2. **conway_game_of_life_oscillator_database_generator.ipynb**: Jupyter Notebook for generating the dataset of Conway's Game of Life oscillators.
+3. **conway_oscillators_data_processing.py**: Utility functions for processing and manipulating data related to oscillators in Conway's Game of Life.
 4. **oscillators_dataset_raw.py**: A raw version of the dataset.
 
 ## Usage
