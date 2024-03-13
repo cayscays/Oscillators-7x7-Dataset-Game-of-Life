@@ -32,9 +32,6 @@ The oscillators are represented as 0s for dead cells and 1s for alive cells.
 
 Conway's Game of Life is a cellular automaton devised by the mathematician John Horton Conway. It is characterized by simple rules yet capable of generating intricate and complex behaviors. It consists of a grid of cells, each of which can be in one of two states: alive or dead. The state of each cell evolves over time based on its neighbors' states.
 
-## Author
-This dataset and repository are maintained by [cayscays](https://github.com/cayscays).
-
 
 ## Related work:
 [A neural network I trained on this dataset](https://github.com/cayscays/neural-network-from-scratch).
