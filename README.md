@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a dataset documenting 7x7 oscillators in Conway's Game of Life. It is currently a work in progress, with ongoing updates and additions. The oscillators in the dataset have a maximum period of 15 generations, with the grid border extending to infinity. The dataset tracks the maximum checked value and provides insights into the behavior of oscillators within the cellular automaton.
+This repository contains a dataset documenting 7x7 oscillators in Conway's Game of Life. The oscillators in the dataset have a maximum period of 15 generations, with the grid border extending to infinity. The dataset tracks the maximum checked value and provides insights into the behavior of oscillators within the cellular automaton. It is currently a work in progress.
      
 
 ## Table of Contents
@@ -23,11 +23,10 @@ This repository contains a dataset documenting 7x7 oscillators in Conway's Game 
 
 ## Usage
 To use this dataset:
-The oscillators are represented as 0s for dead cells and 1s for alive cells.
-
 1. Clone the repository: `git clone https://github.com/cayscays/oscillators-7x7-dataset-game-of-life.git`
 2. Navigate to the repository directory.
 3. Explore the dataset file: oscillators_7x7_dataset.txt and utilize the provided Jupyter Notebook for generating additional data.
+4. The oscillators are represented as 0s for dead cells and 1s for alive cells.
 
 ## About Conway's Game of Life
 
